@@ -1,0 +1,80 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Cross-Platform Development",
+      "description": "Specializing in React Native to deliver seamless and consistent experiences across both iOS and Android platforms."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "UI/UX Design",
+      "description": "Expert in designing intuitive and visually appealing user interfaces that enhance user engagement and satisfaction."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "API Integration",
+      "description": "Proficient in integrating diverse APIs to extend app functionality, ensuring smooth and efficient data flow."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Performance Optimization",
+      "description": "Focused on optimizing app performance for speed, responsiveness, and efficiency, ensuring a superior user experience."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "KiVVON",
+      "description": "Journalists and content creators research, share & discuss with you current topics, trends and news from Germany, Europe and the world.",
+      "link": "View In PlayStore",
+      "uri": "https://play.google.com/store/apps/details?id=com.kivvonmobile&hl=en&gl=US"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Calimatic EdTech",
+      "description": "Calimatic EdTech is the ultimate app for learning institutes that want to bring agility and efficiency to their educational operations.",
+      "link": "View In PlayStore",
+      "uri": "https://play.google.com/store/apps/details?id=com.calimatic.lmsa&hl=en&gl=US"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "CPR Enroll",
+      "description": "CPR Enroll streamlines instructors' tasks by providing features to manage classes, schedules, jobs, and profiles efficiently. Instructors can create, edit, and view classes, mark checklists, and manage documents and timings.",
+      "link": "View In PlayStore",
+      "uri": "https://play.google.com/store/apps/details?id=com.cprenroll.app&hl=en&gl=US"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Dilnawaz's expertise in React Native significantly improved our social app. His problem-solving skills and user-centric solutions are outstanding.",
+      "author_name": "John Smith",
+      "author_designation": "Project Manager"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Dilnawaz led our UI design and front-end development with great skill. His innovative approach and dedication were key to our project's success.",
+      "author_name": "Sarah Johnson",
+      "author_designation": "Chief Executive Officer"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Dilnawaz's leadership in our medical app development was invaluable. His contributions greatly enhanced the app's usability and effectiveness.",
+      "author_name": "Michael Brown",
+      "author_designation": "Chief Technology Officer"
+    }
+  ]
+}
